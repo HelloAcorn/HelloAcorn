@@ -6,7 +6,11 @@
 # <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 링크1, 링크2, 링크3
 
-# <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+# <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/></a>
+[야생동물 보호장치](https://github.com/ilovegalio/exorcise_elk), [커스텀 게임패드](https://github.com/ilovegalio/Arduino_CustomGamepad)
+
+
+<a href="https://github.com/ilovegalio/exorcise_elk"><img src="https://img.shields.io/badge/Deno-3A8761?style=flat-square&logo=Deno&logoColor=white&link="https://github.com/ilovegalio"/></a>&nbsp
   - 🔭 I’m currently working on ...
   - 🌱 I’m currently learning ...
   - 👯 I’m looking to collaborate on ...
