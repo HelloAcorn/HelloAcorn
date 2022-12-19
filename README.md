@@ -1,14 +1,16 @@
 ### 저의 포트폴리오를 소개합니다 👋
 
-# <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+# <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a><a>파이썬으로 만들었어요</a>
+[<img src="https://img.shields.io/badge/MacroDetection-000000?style=flat-square&logo=Pytorch&logoColor=white"/>](https://github.com/ilovegalio/macrodetection), 링크2, 링크3
+
+# <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/><a>자바스크립트로 만들었어요</a>
 링크1, 링크2, 링크3
 
-# <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
-링크1, 링크2, 링크3
+# <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/><a>아두이노로 만들었어요</a>
+[<img src="https://img.shields.io/badge/Protect_Elk-000000?style=flat-square&logo=DuckDuckGo&logoColor=white"/>](https://github.com/ilovegalio/exorcise_elk)
+[<img src="https://img.shields.io/badge/CustomGamepad-000000?style=flat-square&logo=Apple Arcade&logoColor=white"/>](https://github.com/ilovegalio/Arduino_CustomGamepad)
 
-# <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/></a>
-[<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>](https://github.com/ilovegalio/exorcise_elk), [커스텀 게임패드](https://github.com/ilovegalio/Arduino_CustomGamepad)
-
+# <img src="https://img.shields.io/badge/LuaScript-2C2D72?style=flat-square&logo=Lua&logoColor=white"/><a>MSW로 만들었어요</a>
   - 🔭 I’m currently working on ...
   - 🌱 I’m currently learning ...
   - 👯 I’m looking to collaborate on ...
