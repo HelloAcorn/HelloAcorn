@@ -1,17 +1,16 @@
 # 저의 포트폴리오를 소개합니다 👋/
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dbsghd3820)](https://solved.ac/dbsghd3820)<br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilovegalio&show_icons=true&theme=radical)
 
 ## <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>을 사용했어요
 [<img src="https://img.shields.io/badge/Macro_Detection-000000?style=flat-square&logo=&logoColor=white"/>](https://github.com/ilovegalio/macrodetection)&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://img.shields.io/badge/MSW_Reinforcement_Learning-000000?style=flat-square&logo=&logoColor=white"/>](https://github.com/ilovegalio/MSW_reinforcement-learning)&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://img.shields.io/badge/Custom_Gamepad-000000?style=flat-square&logo=&logoColor=white"/>](https://github.com/ilovegalio/Arduino_CustomGamepad)
 <br><br>
 
 
 ## <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/></a><a>을 사용했어요</a>
-[<img src="https://img.shields.io/badge/Macro_Detection-000000?style=flat-square&logo&logoColor=white"/>](https://github.com/ilovegalio/macrodetection)
+[<img src="https://img.shields.io/badge/Macro_Detection-000000?style=flat-square&logo&logoColor=white"/>](https://github.com/ilovegalio/macrodetection)&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/MSW_Reinforcement_Learning-000000?style=flat-square&logo=&logoColor=white"/>](https://github.com/ilovegalio/MSW_reinforcement-learning)
 <br><br>
 
 
