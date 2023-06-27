@@ -25,9 +25,6 @@
 <br><br>
 
 
-## <img src="https://img.shields.io/badge/LuaScript-2C2D72?style=flat-square&logo=Lua&logoColor=white"/><a>을 사용했어요</a>
-[<img src="https://img.shields.io/badge/MSW_Reinforcement_Learning-000000?style=flat-square&logo=&logoColor=white"/>](https://github.com/ilovegalio/MSW_reinforcement-learning)&nbsp;&nbsp;&nbsp;&nbsp;
-<br><br>
   - 🔭 I’m currently working on ...
   - 🌱 I’m currently learning ...
   - 👯 I’m looking to collaborate on ...ㅇㅇㅁ
