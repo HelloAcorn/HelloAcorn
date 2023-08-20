@@ -2,7 +2,7 @@
 
 
 ## <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>을 사용했어요
-[<img src="https://img.shields.io/badge/Macro_Detection-000000?style=flat-square&logo=&logoColor=white"/>](https://github.com/ilovegalio/macrodetection)&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/딥러닝을 이용한 매크로와 사용자 구분-000000?style=flat-square&logo=&logoColor=white"/>](https://github.com/ilovegalio/macrodetection)&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://img.shields.io/badge/Custom_Gamepad-000000?style=flat-square&logo=&logoColor=white"/>](https://github.com/ilovegalio/Arduino_CustomGamepad)
 <br><br>
 
