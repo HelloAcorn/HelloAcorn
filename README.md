@@ -31,6 +31,4 @@
 <img alt="sourcetree" src ="https://img.shields.io/badge/sourcetree-0052CC.svg?&style=flat-square&logo=sourcetree&logoColor=white"/>
 
 
-﻿![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilovegalio&langs_count=10&layout=compact&theme=dark)
-
 
