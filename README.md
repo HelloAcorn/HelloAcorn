@@ -31,4 +31,21 @@
 <img alt="sourcetree" src ="https://img.shields.io/badge/sourcetree-0052CC.svg?&style=flat-square&logo=sourcetree&logoColor=white"/>
 
 
+## 🏢 Career
 
+**2023.10 ~ WIZnet A.I Prompt Engineer**  
+**2023.03 ~ 2023.08 에이콘아카데미 자바 풀스택 & 빅데이터 AI 융합 개발자 수료**  
+**2017.02 ~ 2023.02 순천향대학교 컴퓨터공학과 학사**  
+
+
+## 🗂️ Project
+**해외지사 고객 바이어 고객센터용 ChatBot 개발**
+  - 영업팀 과 협력하여 고객과의 대화 관련 데이터 전처리 (영업 및 계약 관련)
+  - GPT API를 활용하여 System:Role을 활용하여 GPT에게 역할부여(일본어, 고객센터용 챗봇)
+
+
+## 🏆Awards
+  - 2017 순천향대학교 사고력경진대회 장려상
+  - 2018 순천향대학교 사고력경진대회 은상
+  - 2021 순천향대학교 제1회 아이디어드래프트 은상
+  - 2023 자바 풀스택 & 빅데이터 AI 융합 개발자 모범상 수료 (1등)
