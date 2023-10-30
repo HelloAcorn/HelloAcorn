@@ -46,7 +46,7 @@
 ## 🗂️ Project
 **해외지사 고객 바이어 고객센터용 ChatBot 개발**
   - 영업팀 과 협력하여 고객과의 대화 관련 데이터 전처리 (영업 및 계약 관련)
-  - GPT API를 활용하여 System:Role을 활용하여 GPT에게 역할부여(일본어, 고객센터용 챗봇)
+  - GPT API와 System:Role을 활용하여 GPT에게 역할부여(일본어, 고객센터용 챗봇)
 
 
 ## 🏆Awards
