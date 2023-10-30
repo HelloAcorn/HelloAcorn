@@ -1,4 +1,7 @@
-## 💻 Stack
+## 📚 Stack
+
+<div align=center> 
+  
 **Web & Server:**
 <img alt="Html" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white"/> 
 <img alt="Css" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat-square&logo=CSS3&logoColor=white"/>
@@ -7,8 +10,10 @@
 <img alt="Apache Tomcat" src ="https://img.shields.io/badge/Tomcat-F8DC75.svg?&style=flat-square&logo=apachetomcat&logoColor=white"/> 
 <img alt="EC2" src ="https://img.shields.io/badge/Amazon EC2-FF9900.svg?&style=flat-square&logo=amazonec2&logoColor=white"/> 
 
+
 **DB:**
 <img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F80000.svg?&style=flat-square&logo=Oracle&logoColor=white"/>
+<img alt="Mysql " src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/> 
 
 **Embedded:**
 <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
@@ -29,7 +34,7 @@
 <img alt="slack" src ="https://img.shields.io/badge/slack-4A154B.svg?&style=flat-square&logo=slack&logoColor=white"/>
 <img alt="figma" src ="https://img.shields.io/badge/figma-F24E1E.svg?&style=flat-square&logo=figma&logoColor=white"/>
 <img alt="sourcetree" src ="https://img.shields.io/badge/sourcetree-0052CC.svg?&style=flat-square&logo=sourcetree&logoColor=white"/>
-
+</div>
 
 ## 🏢 Career
 
