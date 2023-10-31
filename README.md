@@ -34,13 +34,14 @@
 <img alt="slack" src ="https://img.shields.io/badge/slack-4A154B.svg?&style=flat-square&logo=slack&logoColor=white"/>
 <img alt="figma" src ="https://img.shields.io/badge/figma-F24E1E.svg?&style=flat-square&logo=figma&logoColor=white"/>
 <img alt="sourcetree" src ="https://img.shields.io/badge/sourcetree-0052CC.svg?&style=flat-square&logo=sourcetree&logoColor=white"/>
+<img alt="teams" src ="https://img.shields.io/badge/teams-6264A7.svg?&style=flat-square&logo=sourcetree&logoColor=white"/>
+
 </div>
 
 ## 🏢 Career
-
-**2023.10 ~ WIZnet A.I Prompt Engineer**  
-**2023.03 ~ 2023.08 에이콘아카데미 자바 풀스택 & 빅데이터 AI 융합 개발자 수료**  
-**2017.02 ~ 2023.02 순천향대학교 컴퓨터공학과 학사**  
+  - 2023.10 ~ WIZnet A.I Prompt Engineer
+  - 2023.03 ~ 2023.08 에이콘아카데미 자바 풀스택 & 빅데이터 AI 융합 개발자 수료  
+  - 2017.02 ~ 2023.02 순천향대학교 컴퓨터공학과 학사 졸업
 
 
 ## 🗂️ Project
@@ -53,4 +54,5 @@
   - 2017 순천향대학교 사고력경진대회 장려상
   - 2018 순천향대학교 사고력경진대회 은상
   - 2021 순천향대학교 제1회 아이디어드래프트 은상
-  - 2023 자바 풀스택 & 빅데이터 AI 융합 개발자 과정 1등 수료 **(모범상)**
+  - 2022 MapleStory Worlds X Super Hackathon 2022 참가 
+  - 2023 자바 풀스택 & 빅데이터 AI 융합 개발자 과정 모범상 **(1등 수료)**
