@@ -51,8 +51,8 @@
   - 영업팀 과 협력하여 고객과의 대화 관련 데이터 전처리 (영업 및 계약 관련)
   - GPT API와 System:Role을 활용하여 GPT에게 역할부여(일본어, 고객센터용 챗봇)
 
-- **사내 module gui tool 수정**
-  - UDP Packet Payload 최대 사이즈를 초과해도 정상 송,수신이 가능하게끔 기능 추가.
+- **사내 모듈 gui tool 수정**
+  - E-Save 버전의 모듈을 UDP Packet Payload 최대 사이즈를 초과해도 송,수신이 가능하게 업데이트.
 
 ## 🏆Awards
   - 2017 순천향대학교 사고력경진대회 장려상
