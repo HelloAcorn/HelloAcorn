@@ -1,5 +1,11 @@
 ## 📢 contact
-어디서 볼 수 있을까요 저를!
+৹ Prompt Engineer Developer 민윤홍입니다.
+
+- **Github**: https://github.com/Wzacorn
+
+- **Email** : dbsghd3820@gmail.com
+
+- **Tistory** : https://wzacorn.tistory.com
 
 ## 📚 Stack
 
