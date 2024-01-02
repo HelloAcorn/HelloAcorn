@@ -1,3 +1,6 @@
+## 📢 contact
+어디서 볼 수 있을까요 저를!
+
 ## 📚 Stack
 
 <div align=center> 
