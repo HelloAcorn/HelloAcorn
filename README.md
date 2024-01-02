@@ -11,6 +11,7 @@
 <img alt="EC2" src ="https://img.shields.io/badge/Amazon EC2-FF9900.svg?&style=flat-square&logo=amazonec2&logoColor=white"/> 
 
 
+
 **DB:**
 <img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F80000.svg?&style=flat-square&logo=Oracle&logoColor=white"/>
 <img alt="Mysql " src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/> 
