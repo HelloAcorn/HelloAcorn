@@ -1,5 +1,5 @@
 ## 📢 contact
-৹ Prompt Engineer Developer 민윤홍입니다.
+৹ Prompt Engineer 민윤홍입니다.
 
 - **Github**: https://github.com/Wzacorn
 
