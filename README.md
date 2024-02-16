@@ -56,10 +56,6 @@
 
 
 ## 🗂️ Project
-- **네이버커넥트 제단이 운영한 Data Science Project 2024 수료**
-
-  [레포지토리 링크](https://github.com/WzAcorn/Data-Science-Projects2024)
-  
 - **해외지사 고객 바이어 고객센터용 ChatBot 개발**
   - 영업팀 과 협력하여 고객과의 대화 관련 데이터 전처리 (영업 및 계약 관련)
   - GPT API와 System:Role을 활용하여 GPT에게 역할부여(일본어, 고객센터용 챗봇)
@@ -71,7 +67,12 @@
   - 2017 순천향대학교 사고력경진대회 장려상
   - 2018 순천향대학교 사고력경진대회 은상
   - 2021 순천향대학교 제1회 아이디어드래프트 은상
-  - 2022 MapleStory Worlds X Super Hackathon 2022 참가 
   - 2023 자바 풀스택 & 빅데이터 AI 융합 개발자 과정 모범상 **(1등 수료)**
 
+## Activities
+- **2022 MapleStory Worlds X Super Hackathon 2022 참가** 
+
+- **네이버커넥트 제단 [Data Science Project 2024](https://github.com/WzAcorn/Data-Science-Projects2024) 수료**
+
+  
 
