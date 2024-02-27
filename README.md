@@ -1,5 +1,5 @@
 ## 📢 contact
-৹ Prompt Engineer 민윤홍입니다.
+৹ AI Engineer 민윤홍입니다.
 
 - **Github**: https://github.com/Wzacorn
 
@@ -49,7 +49,7 @@
 
 
 ## 🏢 Career
-  - 2023.10 ~ WIZnet A.I Prompt Engineer
+  - 2023.10 ~ WIZnet AI Engineer
   - 2023.03 ~ 2023.08 에이콘아카데미 자바 풀스택 & 빅데이터 AI 융합 개발자 수료  
   - 2021.01 ~ 2023.02 순천향대학교 OOPSLA 연구실 학부생 연구원
   - 2017.02 ~ 2023.02 순천향대학교 컴퓨터공학과 학사 졸업.
