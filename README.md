@@ -50,7 +50,7 @@
 
 ## 🏢 Career
   - 2023.10 ~ WIZnet AI Engineer
-  - 2023.03 ~ 2023.08 에이콘아카데미 자바 풀스택 & 빅데이터 AI 융합 개발자 수료  
+  - 2023.03 ~ 2023.08 에이콘아카데미 자바 풀스택 & 빅데이터 AI 융합 개발자 과정 수료  
   - 2021.01 ~ 2023.02 순천향대학교 OOPSLA 연구실 학부생 연구원
   - 2017.02 ~ 2023.02 순천향대학교 컴퓨터공학과 학사 졸업.
 
@@ -61,7 +61,7 @@
   - GPT API와 System:Role을 활용하여 GPT에게 역할부여(일본어, 고객센터용 챗봇)
 
 - **B2B Custom Gui Tool 개발**
-  - E-Save 버전의 모듈을 UDP Packet Payload 최대 사이즈를 초과해도 송,수신이 가능하게 업데이트.
+  - E-Save 버전의 모듈을 UDP Packet Payload 최대 사이즈를 초과해도 송,수신이 가능하게 업데이트
 
 ## 🏆Awards
   - 2017 순천향대학교 사고력경진대회 장려상
@@ -70,9 +70,13 @@
   - 2023 자바 풀스택 & 빅데이터 AI 융합 개발자 과정 모범상 **(1등 수료)**
 
 ## 🏃🏼Activities
-- **2022 MapleStory Worlds X Super Hackathon 2022 참가** 
+- 2024.02 ~ 모두의연구소 풀잎스쿨 내 TinyML능력으로 세상을 구하자 40기 퍼실이
+- 2024.01 ~ 2024.02 네이버커넥트 제단 [Data Science Project 2024](https://github.com/WzAcorn/Data-Science-Projects2024) 수료
+- 2022.09 ~ 2022.11 2022 MapleStory Worlds X Super Hackathon 2022 참가 
 
-- **네이버커넥트 제단 [Data Science Project 2024](https://github.com/WzAcorn/Data-Science-Projects2024) 수료**
+
+  
+
 
   
 
