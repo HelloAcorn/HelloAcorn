@@ -39,10 +39,13 @@
 - 2022.09 ~ 2022.11 2022 MapleStory Worlds X Super Hackathon 2022 참가 
 
 ## 📑 Side Project
- - 2023.11 ~ 2023.12 GPT API 통신을 통한 뉴스 요약 컨텐트를 블로그에 자동으로 업로드하는 사이드 [프로젝트](https://github.com/WzAcorn/AutoBlog). 
- - 2022.01 ~ 2022.12 A2C 알고리즘을 적용하여 MSW 환경에서 강화학습을 수행한 [프로젝트](https://github.com/WzAcorn/MSW_reinforcement-learning).
- - 2022.10 ~ 2022.12 딥러닝을 이용하여 게임 매크로의 행동 패턴을 학습하여 탐지하는 [프로젝트](https://github.com/WzAcorn/macrodetection).
- - 2021.10 ~ 2021.11 아두이노 기반 야생동물 로드킬을 방지하는 [프로젝트](https://github.com/WzAcorn/exorcise_elk).
- - 2021.09 ~ 2021.11 '메이플스토리'상의 미니게임인 '몬스터 피라미드' 를 java로 클론코딩한 팀 [프로젝트](https://github.com/WzAcorn/maple_pyramid).
- - 2021.04 ~ 2021.05 java언어로 python이 컴파일링 되는 나만의 인터프리터 제작 [프로젝트](https://github.com/WzAcorn/Interpreter_Java_To_Python).
+ - 2024.02 ~         **LLM-To-Pico(No-Coding)** : Langchain을 사용하여 자연어로 Picobricks를 제어하는 [프로젝트](https://github.com/WzAcorn/LLM-for-Pico).
+ - 2024.01 ~ 2024.01 **TinyML을 이용한 저비용센서 개선하기** : 여러개의 저감도 센서를 TinyML을 사용하여 고감도 센서의 성능이 나오게끔 개선시킨 [프로젝트](https://github.com/WzAcorn/TinyML-HygroPredict). 
+ - 2023.11 ~ 2023.11 **GPT를 이용한 뉴스 재생산 자동 블로그** : GPT API 통신을 통한 뉴스 요약 컨텐트를 블로그에 자동으로 업로드하는 사이드 [프로젝트](https://github.com/WzAcorn/AutoBlog). 
+ - 2022.01 ~ 2022.12 **MSW환경에서의 강화학습** : A2C 알고리즘을 적용하여 MSW 환경에서 강화학습을 수행한 [프로젝트](https://github.com/WzAcorn/MSW_reinforcement-learning).
+ - 2022.10 ~ 2022.12 **졸업논문 - 딥러닝을 이용한 게임 매크로 탐지** : 딥러닝을 이용하여 게임 매크로의 행동 패턴을 학습하여 탐지하는 [프로젝트](https://github.com/WzAcorn/macrodetection).
+ - 2022.02 ~ 2022.03 **커스텀 게임패드** : Python과 Arduino Mega 2560을 시리얼 통신하여 만든 커스텀 게임패드 [프로젝트](https://github.com/WzAcorn/Arduino_CustomGamepad).
+ - 2021.10 ~ 2021.11 **야생동물 보호장치** : 아두이노 기반 야생동물 로드킬을 방지하는 [프로젝트](https://github.com/WzAcorn/exorcise_elk).
+ - 2021.09 ~ 2021.11 **메이플 피라미드** : '메이플스토리'상의 미니게임인 '몬스터 피라미드'를 java로 클론코딩한 팀 [프로젝트](https://github.com/WzAcorn/maple_pyramid).
+ - 2021.04 ~ 2021.05 **나만의 인터프리터** : java언어로 python이 컴파일링 되는 나만의 인터프리터 제작 [프로젝트](https://github.com/WzAcorn/Interpreter_Java_To_Python).
 
