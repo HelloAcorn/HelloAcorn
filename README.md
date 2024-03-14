@@ -78,9 +78,10 @@
 - 2024.01 ~ 2024.02 네이버커넥트 제단 [Data Science Project 2024](https://github.com/WzAcorn/Data-Science-Projects2024) 수료
 - 2022.09 ~ 2022.11 2022 MapleStory Worlds X Super Hackathon 2022 참가 
 
-
-  
-
-
-  
+## 📑 Side Project
+ - 2022.01 ~ 2022.12 A2C 알고리즘을 적용하여 [MSW 환경에서 강화학습](https://github.com/WzAcorn/MSW_reinforcement-learning) 수행 프로젝트.
+ - 2022.10 ~ 2022.12 딥러닝을 이용하여 게임 매크로의 행동 패턴을 학습하여 감지하는 [매크로 탐지](https://github.com/WzAcorn/macrodetection) 프로젝트 진행.
+ - 2021.10 ~ 2021.11 아두이노 기반 [야생동물 로드킬 방지](https://github.com/WzAcorn/exorcise_elk) 프로젝트 제작.
+ - 2021.09 ~ 2021.11 '메이플스토리'상의 미니게임인 [몬스터 피라미드](https://github.com/WzAcorn/maple_pyramid) java 클론코딩 팀 프로젝트.
+ - 2021.04 ~ 2021.05java언어로 python이 컴파일링 되는 [나만의 인터프리터](https://github.com/WzAcorn/Interpreter_Java_To_Python) 제작.
 
