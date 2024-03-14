@@ -69,6 +69,10 @@
   - 2021 순천향대학교 제1회 아이디어드래프트 은상
   - 2023 자바 풀스택 & 빅데이터 AI 융합 개발자 과정 모범상 **(1등 수료)**
 
+## 🪪Certification
+  - 2023.07 SQLD
+  - 2023.11 프롬프트 디자이너(AIPD)
+    
 ## 🏃🏼Activities
 - 2024.02 ~ 모두의연구소 풀잎스쿨 내 TinyML능력으로 세상을 구하자 40기 퍼실이
 - 2024.01 ~ 2024.02 네이버커넥트 제단 [Data Science Project 2024](https://github.com/WzAcorn/Data-Science-Projects2024) 수료
