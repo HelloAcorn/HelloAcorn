@@ -1,7 +1,6 @@
 ## 📢 contact
 ৹ AI Engineer 민윤홍입니다.
 
-
 - **Github**: https://github.com/Wzacorn
 
 - **Email** : dbsghd3820@gmail.com
@@ -24,13 +23,19 @@
 - **B2B Custom Gui Tool 개발**
   - E-Save 버전의 모듈을 UDP Packet Payload 최대 사이즈를 초과해도 송,수신이 가능하게 업데이트
 
+- **RAG 기반 사내 CS ChatBot 개발** 
+  -	사내 Chip 엔지니어의 고객 CS 업무를 일부 대체하기 위해 QnA사이트(기술지원) 글 작성시, 챗봇 자동응답 시스템 구현
+  -	데이터 정제 Tool 구현 : 사내 CS 발화뭉치를 jsonl형식으로 변경해주는 Tool 개발
+  -	Langchain을 이용하여 제품 분류 pipeline prompt, function calling 구현
+
+
 ## 🏆Awards
   - 2017 순천향대학교 사고력경진대회 장려상
   - 2018 순천향대학교 사고력경진대회 은상
   - 2021 순천향대학교 제1회 아이디어드래프트 은상
   - 2023 자바 풀스택 & 빅데이터 AI 융합 개발자 과정 모범상 **(1등 수료)**
 
-## 🪪Certification
+## 🪪 Certification
   - 2023.07 SQLD
   - 2023.11 프롬프트 디자이너(AIPD)
     
