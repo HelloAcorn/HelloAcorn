@@ -31,6 +31,7 @@
   -	Langchain을 이용하여 제품 분류 pipeline prompt, function calling 구현
 
 
+
 ## 🏆Awards
   - 2017 순천향대학교 사고력경진대회 장려상
   - 2018 순천향대학교 사고력경진대회 은상
