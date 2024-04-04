@@ -9,7 +9,6 @@
 
 - **Tistory** : https://wzacorn.tistory.com
 
-
 ## 🏢 Career
   - 2023.10 ~ WIZnet AI Engineer
   - 2023.03 ~ 2023.08 에이콘아카데미 자바 풀스택 & 빅데이터 AI 융합 개발자 과정 수료  
