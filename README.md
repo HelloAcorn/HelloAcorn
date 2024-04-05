@@ -57,3 +57,5 @@
  - 2021.09 ~ 2021.11 **메이플 피라미드** : '메이플스토리'상의 미니게임인 '몬스터 피라미드'를 java로 클론코딩한 팀 [프로젝트](https://github.com/WzAcorn/maple_pyramid).
  - 2021.04 ~ 2021.05 **나만의 인터프리터** : java언어로 python이 컴파일링 되는 나만의 인터프리터 제작 [프로젝트](https://github.com/WzAcorn/Interpreter_Java_To_Python).
 
+## 백준 티어
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbsghd3820)](https://solved.ac/dbsghd3820/)
