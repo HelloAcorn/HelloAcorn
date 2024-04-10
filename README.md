@@ -17,18 +17,14 @@
 
 
 ## 🗂️ Project
-- **해외지사 고객 바이어 고객센터용 ChatBot 개발**
-  - 영업팀 과 협력하여 고객과의 대화 관련 데이터 전처리 (영업 및 계약 관련)
-  - GPT API와 System:Role을 활용하여 GPT에게 역할부여(일본어, 고객센터용 챗봇)
-
-- **B2B Custom Gui Tool 개발**
-  - E-Save 버전의 모듈을 UDP Packet Payload 최대 사이즈를 초과해도 송,수신이 가능하게 업데이트
 
 - **RAG 기반 사내 CS ChatBot 개발** 
   -	사내 Chip 엔지니어의 고객 CS 업무를 일부 대체하기 위해 QnA사이트(기술지원) 글 작성시, 챗봇 자동응답 시스템 구현
   -	데이터 정제 Tool 구현 : 사내 CS 발화뭉치를 jsonl형식으로 변경해주는 Tool 개발
   -	Langchain을 이용하여 제품 분류 pipeline prompt, function calling 구현
 
+- **B2B Custom Gui Tool 개발**
+  - E-Save 버전의 모듈을 UDP Packet Payload 최대 사이즈를 초과해도 송,수신이 가능하게 업데이트
 
 
 ## 🏆Awards
