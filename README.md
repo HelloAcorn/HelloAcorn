@@ -16,17 +16,6 @@
   - 2017.02 ~ 2023.02 순천향대학교 컴퓨터공학과 학사 졸업.
 
 
-## 🗂️ Project
-
-- **RAG 기반 사내 CS ChatBot 개발** 
-  -	사내 Chip 엔지니어의 고객 CS 업무를 일부 대체하기 위해 QnA사이트(기술지원) 글 작성시, 챗봇 자동응답 시스템 구현
-  -	데이터 정제 Tool 구현 : 사내 CS 발화뭉치를 jsonl형식으로 변경해주는 Tool 개발
-  -	Langchain을 이용하여 제품 분류 pipeline prompt, function calling 구현
-
-- **B2B Custom Gui Tool 개발**
-  - E-Save 버전의 모듈을 UDP Packet Payload 최대 사이즈를 초과해도 송,수신이 가능하게 업데이트
-
-
 ## 🏆Awards
   - 2017 순천향대학교 사고력경진대회 장려상
   - 2018 순천향대학교 사고력경진대회 은상
