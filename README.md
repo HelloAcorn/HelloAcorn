@@ -1,7 +1,7 @@
 ## 📢 contact
 ৹ AI Engineer 민윤홍입니다.
 
-- **Github**: https://github.com/Wzacorn
+- **Github**: https://github.com/HelloAcorn
 
 - **notion**: https://www.notion.so/ebbdd3a098704111a99c77e7a5c547b8?pvs=4
 
@@ -10,6 +10,7 @@
 - **Tistory** : https://wzacorn.tistory.com
 
 ## 🏢 Career
+  - 2024.05 ~ Bigglz AI Engineer
   - 2023.10 ~ 2024.04 WIZnet AI Engineer
   - 2023.03 ~ 2023.08 에이콘아카데미 자바 풀스택 & 빅데이터 AI 융합 개발자 과정 수료  
   - 2021.01 ~ 2023.02 순천향대학교 OOPSLA 연구실 학부생 연구원
