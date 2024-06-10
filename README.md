@@ -28,12 +28,12 @@
   - 2023.11 프롬프트 디자이너(AIPD)
     
 ## 🏃🏼Activities
-- 2024.02 ~ 모두의연구소 풀잎스쿨 내 TinyML능력으로 세상을 구하자 40기 퍼실이
-- 2024.01 ~ 2024.02 네이버커넥트 제단 [Data Science Project 2024](https://github.com/WzAcorn/Data-Science-Projects2024) 수료
+- 2024.05 ~ 2024.06 네이버커넥트 제단 코칭스터디 [Let's AI 2024] 리드부스터 참가.
+- 2024.02 ~ 2024.05 모두의연구소 풀잎스쿨 내 TinyML능력으로 세상을 구하자 40기 퍼실이
+- 2024.01 ~ 2024.02 네이버커넥트 제단 코칭스터디 [Data Science Project 2024](https://github.com/WzAcorn/Data-Science-Projects2024) 부스터 참가
 - 2022.09 ~ 2022.11 2022 MapleStory Worlds X Super Hackathon 2022 참가 
 
 ## 📑 Side Project
- - 2024.02 ~         **LLM-To-Pico(No-Coding)** : Langchain을 사용하여 자연어로 Picobricks를 제어하는 [프로젝트](https://github.com/WzAcorn/LLM-for-Pico).
  - 2024.01 ~ 2024.01 **TinyML을 이용한 저비용센서 개선하기** : 여러개의 저감도 센서를 TinyML을 사용하여 고감도 센서의 성능이 나오게끔 개선시킨 [프로젝트](https://github.com/WzAcorn/TinyML-HygroPredict). 
  - 2023.11 ~ 2023.11 **GPT를 이용한 뉴스 재생산 자동 블로그** : GPT API 통신을 통한 뉴스 요약 컨텐트를 블로그에 자동으로 업로드하는 사이드 [프로젝트](https://github.com/WzAcorn/AutoBlog). 
  - 2022.01 ~ 2022.12 **MSW환경에서의 강화학습** : A2C 알고리즘을 적용하여 MSW 환경에서 강화학습을 수행한 [프로젝트](https://github.com/WzAcorn/MSW_reinforcement-learning).
