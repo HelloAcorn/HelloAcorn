@@ -35,7 +35,7 @@
 - 2022.09 ~ 2022.11 2022 MapleStory Worlds X Super Hackathon 2022 참가 
 
 ## 📑 Side Project
- - 2024.01 ~ 2024.01 **TinyML을 이용한 저비용센서 개선하기** : 여러개의 저감도 센서를 TinyML을 사용하여 고감도 센서의 성능이 나오게끔 개선시킨 [프로젝트](https://github.com/WzAcorn/TinyML-HygroPredict). 
+ - 2024.01 ~ 2024.03 **TinyML을 이용한 저비용센서 개선하기** : 여러개의 저감도 센서를 TinyML을 사용하여 고감도 센서의 성능이 나오게끔 개선시킨 [프로젝트](https://github.com/WzAcorn/TinyML-HygroPredict). 
  - 2023.11 ~ 2023.11 **GPT를 이용한 뉴스 재생산 자동 블로그** : GPT API 통신을 통한 뉴스 요약 컨텐트를 블로그에 자동으로 업로드하는 사이드 [프로젝트](https://github.com/WzAcorn/AutoBlog). 
  - 2022.01 ~ 2022.12 **MSW환경에서의 강화학습** : A2C 알고리즘을 적용하여 MSW 환경에서 강화학습을 수행한 [프로젝트](https://github.com/WzAcorn/MSW_reinforcement-learning).
  - 2022.10 ~ 2022.12 **졸업논문 - 딥러닝을 이용한 게임 매크로 탐지** : 딥러닝을 이용하여 게임 매크로의 행동 패턴을 학습하여 탐지하는 [프로젝트](https://github.com/WzAcorn/macrodetection).
